@@ -251,4 +251,13 @@
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="yesterday">Ontem</string>
+  <string name="copy">Copiar</string>
+  <string name="expand_button_title">Avançado</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary_pad">Arraste o canto para minimizar um aplicativo</string>
+  <string name="multi_window_cvw_title">Janela flutuante</string>
+  <string name="not_set">Não configurado</string>
+  <string name="preference_copied">\"%1$s\" copiado para área de transferência.</string>
+  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+  <string name="v7_preference_off">DESLIGADO</string>
+  <string name="v7_preference_on">LIGADO</string>  
 </resources>

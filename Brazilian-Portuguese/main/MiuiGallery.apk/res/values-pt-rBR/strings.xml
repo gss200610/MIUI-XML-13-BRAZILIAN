@@ -3201,4 +3201,5 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="zman_title">Compartilhamento seguro</string>
   <string name="zte">ZTE</string>
   <string name="zte_phone">ZTE</string>
+  <string name="update_log_format" formatted="false">%s %s</string>
 </resources>

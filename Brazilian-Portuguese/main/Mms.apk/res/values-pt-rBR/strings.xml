@@ -1541,4 +1541,7 @@ Tentativas efetuadas: %s."</string>
   <string name="zero_sms_feedback_message">Mensagens reportadas são enviadas aos nossos servidores junto com os números de telefone dos seus remetentes. Estas mensagens são usadas apenas para melhorar a funcionalidade da Lista de bloqueio.</string>
   <string name="zero_sms_feedback_success">Reportado com sucesso</string>
   <string name="zero_sms_feedback_title">Reportar</string>
+  <string name="add_to_block_by_number">"Adicionado %s á lista de bloqueio"</string>
+  <string name="add_to_block_by_tag">"Mensagens contendo \"%s\" adicionadas à lista de bloqueio"</string>
+</resources>  
 </resources>

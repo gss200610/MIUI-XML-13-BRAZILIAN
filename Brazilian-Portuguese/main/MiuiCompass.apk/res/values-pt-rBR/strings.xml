@@ -307,4 +307,6 @@
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="yesterday">Ontem</string>
+  <string name="calibrating">Calibração</string>
+  <string name="new_cta_app_purpose">Ver direções e coordenadas</string>
 </resources>

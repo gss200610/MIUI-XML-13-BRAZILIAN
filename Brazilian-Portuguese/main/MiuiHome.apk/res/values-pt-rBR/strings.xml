@@ -865,4 +865,6 @@
   <string name="work_profile_title">Perfil de trabalho</string>
   <string name="work_profile_toggle_label">Perfil de trabalho</string>
   <string name="yesterday">Ontem</string>
+  <string name="menu_no_word">"Don't show text"</string>
+  <string name="menu_no_word_setting_tip" formatted="false">Usar um %d×%d Layout sem texto</string>  
 </resources>

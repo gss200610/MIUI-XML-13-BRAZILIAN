@@ -440,4 +440,6 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
   <string name="withdraw_consent_failed_hint_connect_net">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
   <string name="withdrawing">Retirando consentimento…</string>
   <string name="yesterday">Ontem</string>
+  <string name="miui_main_ota_end_bottom_desc">Varrer o sistema levemente</string>
+  <string name="miuix_indexer_collect">Coleções</string>  
 </resources>

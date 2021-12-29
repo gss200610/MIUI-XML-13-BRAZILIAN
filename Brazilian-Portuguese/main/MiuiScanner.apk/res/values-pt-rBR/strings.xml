@@ -816,4 +816,10 @@ você deseja digitalizar para a Mi AI"</string>
   <string name="you_have_permission_to_download">Toque para baixar a versão beta</string>
   <string name="you_id">"Sua identificação: "</string>
   <string name="your_application_is_under_review">" (Sua inscrição está sendo analisada.)"</string>
+  <string name="camera_permissions_text">Permitir que o scanner acesse a câmera para poder usar esse recurso.</string>
+  <string name="format_error">Senha inválida</string>
+  <string name="label_flash_light_off">Lanterna está desligada</string>
+  <string name="label_flash_light_on">Lanterna está ligada</string>
+  <string name="miuix_indexer_collect">Coleções</string>
+  <string name="storage_permissions_text">Permitir que o scanner acesse o armazenamento do dispositivo para poder usar esse recurso.</string>  
 </resources>

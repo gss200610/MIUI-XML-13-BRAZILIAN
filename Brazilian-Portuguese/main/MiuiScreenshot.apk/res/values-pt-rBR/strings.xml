@@ -245,4 +245,7 @@ uma captura de tela estendida"</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="yesterday">Ontem</string>
+  <string name="can_drag">Arraste para inserir ou enviar</string>
+  <string name="save_success">Salvo com sucesso</string>
+  <string name="screenshot_save">Salvar</string>  
 </resources>

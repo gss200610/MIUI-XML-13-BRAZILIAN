@@ -2073,4 +2073,16 @@ que você grave e edite vídeos em qualquer lugar"</string>
   <string name="wideselfie_rotate_to_left_slowly">Gire o telefone para a esquerda</string>
   <string name="wideselfie_rotate_to_right_slowly">Gire o telefone para a direita</string>
   <string name="yesterday">Ontem</string>
+  <string name="back_evergoin">2:REDMI NOTE 11T 5G</string>
+  <string name="back_evergreen">2:POCO M4 PRO 5G</string>
+  <string name="back_lisa">3:MI 11 LE</string>
+  <string name="back_lisa_india">3:XIAOMI 11 LITE NE</string>
+  <string name="pref_camera_dynamic_frame_rate_summary_new">Reduza a taxa de quadros para vídeos em ambientes de baixa luz ou de alta temperatura</string>
+  <string name="pref_camera_dynamic_frame_rate_title_new">Taxa de quadro automático.</string>
+  <string name="pref_camera_track_focus_intro_description">Quando você tirar fotos ou atirar vídeos com assuntos em movimento, esse recurso detecta pessoas, gatos e cães e mantém-os em foco automaticamente. Além disso, você também pode tocar em qualquer assunto para rastrear movimento.</string>
+  <string name="pref_camera_track_focus_intro_goto">Ligar</string>
+  <string name="pref_true_colour_video_mode_description">TC</string>
+  <string name="pref_true_colour_video_mode_title">TC</string>
+  <string name="video_true_colour_suffix">_TC</string>
+  <string name="video_true_colour_tip">TC</string>  
 </resources>

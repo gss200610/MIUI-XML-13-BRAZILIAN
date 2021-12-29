@@ -280,4 +280,13 @@
         <item>Eventos diários</item>
         <item>Ordinário e extraordinário</item>
     </string-array>
+    <array name="mark_pen_default_color_item">
+      <item>#ffff7a45</item>
+    </array>
+    <array name="pen_default_color_item">
+      <item>#ffff7a45</item>
+    </array>
+    <array name="shape_default_color_item">
+      <item>#ffff7a45</item>
+    </array>    
 </resources>

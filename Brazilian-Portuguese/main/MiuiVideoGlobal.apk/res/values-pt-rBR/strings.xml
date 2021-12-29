@@ -1706,4 +1706,20 @@ Tamanho de atualização delta: %2$s"</string>
   <string name="ytb_play_next">A seguir</string>
   <string name="ytb_subscribed">Inscrições</string>
   <string name="ytb_trending">Tendências</string>
+  <string name="androidx_startup">androidx.startup</string>
+  <string name="galleryplus_video_circulate_quit">Toque para sair</string>
+  <string name="newyearfestival_go_to_draw_prizes">Vá para o sorteio</string>
+  <string name="newyearfestival_watch_the_video_to_draw_prizes">Assista a vídeos para entrar em sorte</string>
+  <string name="offline_notification_text">Toque para abrir o anúncio</string>
+  <string name="offline_notification_title">Veja o anúncio que você salvou quando você estava offline</string>
+  <string name="offline_opt_in_confirm">OK</string>
+  <string name="offline_opt_in_confirmation">"Você receberá uma notificação com o link quando estiver de volta online"</string>
+  <string name="offline_opt_in_decline">Não obrigado</string>
+  <string name="offline_opt_in_message">"Enviaremos uma notificação com um link para o site do anunciante."</string>
+  <string name="offline_opt_in_title">"Abra o anúncio quando estiver de volta online."</string>
+  <string name="plus_gallery_files">Arquivos</string>
+  <string name="sign_in_google_account">Faça login no Google</string>
+  <string name="sign_in_google_account_hint">"Faça login na sua Conta do Google para ver mais vídeos que você gostaria"</string>
+  <string name="sign_in_mi_account">Entrar com conta Mi</string>
+  <string name="talkback_voice_search">Pesquisa por voz</string>  
 </resources>

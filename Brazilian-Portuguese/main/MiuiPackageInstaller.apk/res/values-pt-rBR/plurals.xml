@@ -88,4 +88,24 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+     <plurals name="app_info_permission_count">
+        <item quantity="other">%1$s Permissões</item>
+        <item quantity="one">%1$s permissão</item>
+     </plurals>
+     <plurals name="app_info_permission_count_">
+        <item quantity="other">%1$s Permissões,</item>
+        <item quantity="one">%1$s permissão,</item>
+     </plurals>
+     <plurals name="app_info_private_permission_count">
+        <item quantity="other">%1$s Permissões relacionadas à privacidade</item>
+        <item quantity="one">%1$s Permissão relacionada à privacidade</item>
+     </plurals>
+     <plurals name="comment_count">
+        <item quantity="other">%1$s avaliações</item>
+        <item quantity="one">%1$s Reveja</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d Nova notificação</item>
+     </plurals>    
 </resources>
