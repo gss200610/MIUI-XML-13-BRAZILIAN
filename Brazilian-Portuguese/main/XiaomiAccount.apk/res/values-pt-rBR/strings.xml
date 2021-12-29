@@ -895,4 +895,5 @@ Envie este código para o supervisor."</string>
     <string name="user_license_without_3rd_mobile"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação móvel da China&lt;/a>."</Data></string>
     <string name="user_license_without_3rd_telcom"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e Condições de Serviços de Verificação da Conta de Esurfing&lt;/a>."</Data></string>
     <string name="user_license_without_3rd_unicom"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e Condições dos Serviços de Verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="miuix_indexer_collect">Coleções</string>
 </resources>

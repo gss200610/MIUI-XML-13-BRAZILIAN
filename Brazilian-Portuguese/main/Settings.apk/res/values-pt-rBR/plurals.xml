@@ -641,4 +641,8 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
         <item quantity="other">Alterar para \"Somente alarmes\" por %1$d minutos (até %2$s)</item>
         <item quantity="one">Alterar para \"Somente alarmes\" por %1$d minutos (até %2$s)</item>
     </plurals>
+    <plurals name="clean_time">
+      <item quantity="other">%d segundos</item>
+      <item quantity="one">%d segundo</item>
+    </plurals>    
 </resources>

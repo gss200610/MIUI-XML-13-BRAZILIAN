@@ -5,4 +5,9 @@
         <item>Apenas Wi-Fi</item>
         <item>Desativado</item>
     </string-array>
+    <string-array name="config_show_datatraffic_dialog_mccmnc">
+      <item>21401</item>
+      <item>21405</item>
+      <item>21407</item>
+    </string-array>    
 </resources>

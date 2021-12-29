@@ -1475,4 +1475,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
   <string name="need_to_open_storage_permission_desc">Para poder usar e baixar itens em temas, permita que o app acesse o armazenamento primeiro.</string>
   <string name="storage_migration_exit_msg">Para tornar os temas compatíveis com as próximas versões do Android, movemos seus itens baixados para um novo local.Reinicie o app para aplicar alterações e visualizar seu conteúdo baixado.</string>
   <string name="storage_permission_denied_desc">Permitir o app temas acessar o armazenamento para poder visualizar itens</string>
+  <string name="show_theme_community">Atalho da comunidade</string>
+  <string name="show_theme_community_desc">Mostrar ou ocultar o atalho da comunidade de temas</string>
+  <string name="supersave_mode_toast_message">"Esse recurso não está disponível ao usar o Ultra economia de bateria. Desativar a ultra economia de bateria para poder usá-lo."</string>  
 </resources>

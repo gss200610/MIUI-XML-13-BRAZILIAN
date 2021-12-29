@@ -657,4 +657,7 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
   <string name="withdraw_consent">Se você retirar o consentimento, os serviços do Carrossel de Planos de fundo serão desativados.</string>
   <string name="yesterday">Ontem</string>
   <string name="zone_picker_title">Escolher fuso horário</string>
+  <string name="other_settings_ad_dialog_content_for_global">"Quando as recomendações de anúncios personalizadas estiverem desligadas, você ainda verá a mesma quantidade de anúncios em apps do sistema Miui como quando o recurso estiver ligado. Os anúncios de plataformas Xiaomi e terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
+  <string name="start_up_slogan_thirteen_china">Onde todas as coisas se conectam</string>
+
 </resources>

@@ -10922,4 +10922,21 @@ Atualizar configurações para:
     <string name="zone_menu_by_region">Selecionar por região</string>
     <string name="zone_time_type_dst">Horário de verão</string>
     <string name="zone_time_type_standard">Horário padrão</string>
+    <string name="about_ad_service_instructions_for_global">Sobre serviços de anúncios e privacidade em apps do sistema Miui</string>
+    <string name="auto_clean_summary_new">Reproduza um áudio de %d segundos para limpar o alto-falante. Use este recurso várias vezes consecutivas para quantidades substanciais de sujeira.</string>
+    <string name="dialog_speaker_auto_clean_content_new">"Você está prestes a reproduzir o áudio que limpará o alto-falante. Ajuste o volume ao máximo para obter o melhor efeito."</string>
+    <string name="dialog_speaker_auto_clean_title_new">Alto-falante limpo</string>
+    <string name="external_ram_dialog_icon_confirm">Entendi</string>
+    <string name="external_ram_dialog_icon_info">O sistema irá estender a RAM por %1$s %2$s.</string>
+    <string name="external_ram_dialog_icon_title">Extensão de memória está em</string>
+    <string name="miheadset_hd_audio_summary">Reproduzir %1$d-bit/%2$d kHz áudio de alta definição</string>
+    <string name="miheadset_hd_audio_title">HD audio</string>
+    <string name="nfc_dnd_mode_summary">Responda às tags NFC com uma quantidade limitada de tags do NDEF</string>
+    <string name="nfc_dnd_mode_title">NFC DND</string>
+    <string name="progress_dialog_speaker_auto_clean_button">Parar</string>
+    <string name="progress_dialog_speaker_auto_clean_title">Limpando auto-falantes…</string>
+    <string name="reset_network_title_noSim">Redefinir Wi-Fi e Bluetooth</string>
+    <string name="toast_disconnect_earphone">Desconecte fones de ouvido e tente novamente</string>
+    <string name="use_personalized_ad_service_summary_for_global">"Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios nos apps do sistema MIUI de quando o recurso está ativado. Os anúncios da Xiaomi e de plataformas de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
+
 </resources>
