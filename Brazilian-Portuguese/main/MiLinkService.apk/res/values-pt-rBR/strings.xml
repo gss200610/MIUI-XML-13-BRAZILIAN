@@ -520,4 +520,18 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
   <string name="wifi_scan_btn_text">Escaneie novamente</string>
   <string name="wifi_username_et_hint">Insira a ID da conta</string>
   <string name="yesterday">Ontem</string>
+  <string name="current_wifi_tv">Rede atual</string>
+  <string name="notify_wifiap_dialog_msg">Para digitalizar o código e configurar a rede, desligue o hotspot portátil primeiro.</string>
+  <string name="notify_wifiap_dialog_negative">Entedi</string>
+  <string name="notify_wifiap_dialog_title">Configurar rede</string>
+  <string name="policy_link_lawer_en">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
+  <string name="policy_link_lawer_ft">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=ft</string>
+  <string name="policy_link_lawer_wy">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=wy</string>
+  <string name="policy_link_lawer_zh">http://cdn.hpplay.com.cn/xm/lawer.html</string>
+  <string name="policy_link_lawer_zy">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=zy</string>
+  <string name="policy_link_privacy_en">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+  <string name="policy_link_privacy_ft">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=ft</string>
+  <string name="policy_link_privacy_wy">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=wy</string>
+  <string name="policy_link_privacy_zh">http://cdn.hpplay.com.cn/xm/privacy.html</string>
+  <string name="policy_link_privacy_zy">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=zy</string>  
 </resources>

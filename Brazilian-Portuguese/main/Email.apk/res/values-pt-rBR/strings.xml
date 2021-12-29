@@ -1649,4 +1649,6 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
   <string name="you_are_in_mobile_network">"Usar  dados móveis para o upload dos logs?"</string>
   <string name="youfuli">Promoção</string>
   <string name="zip_viewer_no_file">Nenhum arquivo.</string>
+  <string name="close_custom_folder">Recolher subpasta</string>
+  <string name="open_custom_folder">Expandir subpasta</string>  
 </resources>

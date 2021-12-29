@@ -1386,4 +1386,5 @@ Selecione uma das seguintes opções:"</string>
   <string name="yellowpage_search_the_yellowpage">Pesquisar Páginas amarelas</string>
   <string name="yesterday">Ontem</string>
   <string name="zero_items_selected">Selecionar itens</string>
+  <string name="identify_numbers_text">Ligue o ID do discador para identificar chamadas de spam</string>
 </resources>

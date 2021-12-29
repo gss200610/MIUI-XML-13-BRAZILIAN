@@ -1067,4 +1067,13 @@ As informações de localização podem não ser reportadas se a conexão de red
   <string name="xiaomi_cloud_service_subtitle">Todos os itens importantes em um só lugar</string>
   <string name="xmpp_server_addr"/>
   <string name="yesterday">Ontem</string>
+  <string name="accept_all_permission_content">Localizar dispositivo pode não funcionar corretamente sem permissões. Selecione todas as permissões listadas para poder usar todos os recursos de Localizar dispositivo.</string>
+  <string name="accept_all_permission_title">Permissões necessárias</string>
+  <string name="accept_all_positive">Selecione.</string>
+  <string name="accept_use_permissions">Conceder</string>
+  <string name="find_device_permissions_footer">"Toque \"Conceder\" para conceder as permissões que você selecionou."</string>
+  <string name="find_device_permissions_header">"Bem-vindo ao localizar o dispositivo!. Você pode usar este aplicativo para localizar, rastrear e bloquear o dispositivo quando estiver faltando. Localizar dispositivo requer as seguintes permissões:"</string>
+  <string name="revoke_permission_content">"Você não poderá continuar usando o Localizar dispositivo se você remover permissões. Encontre o dispositivo será desligado também. Você será solicitado a verificar sua senha antes de remover."</string>
+  <string name="revoke_permission_title">Atenção</string>
+
 </resources>

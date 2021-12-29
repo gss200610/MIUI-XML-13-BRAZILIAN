@@ -482,4 +482,7 @@
   <string name="xspace_resolver_activity_title">Selecionar app</string>
   <string name="zte">ZTE</string>
   <string name="zte_phone">ZTE</string>
+  <string name="wallpaper_group_black_gobi_title">Areias de Gobi</string>
+  <string name="wallpaper_group_crystallization_subtitle">Beleza da Ciência</string>
+  <string name="wallpaper_group_crystallization_title">Cristalização</string>  
 </resources>

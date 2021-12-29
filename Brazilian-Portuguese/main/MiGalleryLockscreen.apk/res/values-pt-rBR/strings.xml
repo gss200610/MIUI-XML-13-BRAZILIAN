@@ -1054,4 +1054,61 @@ dd/MM"</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
   <string name="yesterday">Ontem</string>
+  <string name="access_denied_info">Muitas tentativas. Espere um minuto ou dois e tente novamente.</string>
+  <string name="doing_login">Entrando…</string>
+  <string name="doing_query_account">Verificando informações da conta.…</string>
+  <string name="doing_register">Criando conta…</string>
+  <string name="getverifycode_seconde">s</string>
+  <string name="header_help">Ajuda</string>
+  <string name="i_know">Entendi</string>
+  <string name="input_length_exceeds_limit">O texto que você digitou é muito longo</string>
+  <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+  <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+  <string name="library_android_database_sqlcipher_isOpenSource">true</string>
+  <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API based on SQLCipher</string>
+  <string name="library_android_database_sqlcipher_libraryName">SQLCipher for Android</string>
+  <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+  <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+  <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+  <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
+  <string name="login_by_local_phone_long_text">Faça seu login agora mesmo</string>
+  <string name="login_by_local_phone_short_text">Entrar</string>
+  <string name="login_other">Outra conta Mi.</string>
+  <string name="login_register_by_local_phone_long_text">Criar Conta</string>
+  <string name="login_with_sns">Outras maneiras de entrar</string>
+  <string name="mishop_login_other">Outra conta</string>
+  <string name="network_error_info">Um erro de rede ocorreu. Verifique suas configurações de rede e tente novamente.</string>
+  <string name="network_timeout_info">"Não foi possível conectar-se à rede. Tente novamente."</string>
+  <string name="open_settings">Configurações</string>
+  <string name="please_agree_protocal">Por favor, concorde o protocolo</string>
+  <string name="progressbar_title">Verificando problemas de segurança…</string>
+  <string name="protocal_dialog_cancel">Cancelar</string>
+  <string name="protocal_dialog_confirm">Aceita</string>
+  <string name="protocal_dialog_title">Atenção</string>
+  <string name="register_by_local_phone_long_text">Criar Conta</string>
+  <string name="register_by_local_phone_short_text">Criar Conta</string>
+  <string name="request_agree">Permitir</string>
+  <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este aplicativo precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usando a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concordar em conceder tais permissões, você não poderá usar alguns recursos deste aplicativo; No entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre poderá restringir permissões ou revogar sua autorização nas configurações."</string>
+  <string name="request_cancel">Cancelar</string>
+  <string name="request_error_invalid_token">"Não foi possível verificar"</string>
+  <string name="request_error_network">Um erro de rede ocorreu. Verifique suas configurações de rede e tente novamente.</string>
+  <string name="request_error_unknown">Um erro do sistema ocorreu. Volte e tente novamente.</string>
+  <string name="request_gallery_permission_message">Permitir acesso à galeria:&lt;br />Para definir fotos de perfil</string>
+  <string name="skip_query_account">Pular</string>
+  <string name="system_error_info">Sistema está ocupado. Espere um minuto ou dois e tente novamente.</string>
+  <string name="unknown_error_info">Erro desconhecido</string>
+  <string name="user_agreement_hint_3rd_app"><Data>"Eu li e concordo em &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> e a conta Mi &lt;a href=%3$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_3rd_app_mobile"><Data>"Eu li e concordei em &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, Conta Mi &lt;a href=%3$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação móvel da China&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Eu li e concordei em &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, Conta de mi &lt;a href=%3$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%5$s>Termos e condições de serviços de verificação de conta de eSurfing&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Eu li e concordei em &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, Conta de mi &lt;a href=%3$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%5$s>Termos e Condições dos Serviços de Verificação da China Unicom&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_default"><Data>"Eu li e concordei com a Conta Mi &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_default_1"><Data>Leu e concordou com o &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade.&lt;/a></Data></string>
+  <string name="user_agreement_hint_default_extra"><Data>"Eu li e concordei no &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade.&lt;/a> O primeiro login criará automaticamente uma conta Xiaomi"</Data></string>
+  <string name="user_agreement_hint_first_login">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
+  <string name="user_agreement_hint_with_mobile"><Data>"Eu li e concordo com a  Conta Mi &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação móvel da China&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_with_telecom"><Data>"Eu li e concordo com a Conta Mi &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%3$s>Termos e condições de serviços de verificação de conta de esurfagem&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_with_unicom"><Data>"Eu li e concordo com a Conta Mi &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%3$s>Termos e Condições dos Serviços de Verificação da China Unicom&lt;/a>."</Data></string>
+  <string name="user_agreement_protocal_dialog_hint_default"><Data>"Leu e concordou em &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> e Conta Mi &lt;a href=%3$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>."</Data></string>
+  <string name="user_name_phone_number">Número de telefone</string>
+
 </resources>
